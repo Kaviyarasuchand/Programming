@@ -1,40 +1,40 @@
-# Integer
+#1. Integer
 x_int = 10
 
-# Float
+#2. Float
 y_float = 3.14
 
-# String
+#3. String
 z_str = "Hello, world!"
 
-# Boolean
+#4. Boolean
 a_bool = True
 
-# List
+#5. List
 b_list = [1, 2, 3, 4, 5]
 
-# Tuple
+#6. Tuple
 c_tuple = (1, 2, 3, 4, 5)
 
-# Set
+#7. Set
 d_set = {1, 2, 3, 4, 5}
 
-# Dictionary
+#8. Dictionary
 e_dict = {"name": "Alice", "age": 30}
 
-# Complex
+#9. Complex
 f_complex = 2 + 3j
 
-# Bytes
+#10. Bytes
 g_bytes = b"Hello"
 
-# Bytearray
+#11. Bytearray
 h_bytearray = bytearray(b"Hello")
 
-# NoneType
+#12. NoneType
 i_none = None
 
-# Displaying the data types
+#13. Displaying the data types
 print("Integer:", x_int, type(x_int))
 print("Float:", y_float, type(y_float))
 print("String:", z_str, type(z_str))
