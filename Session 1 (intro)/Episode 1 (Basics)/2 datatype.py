@@ -17,8 +17,7 @@ b_list = [1, 2, 3, 4, 5]
 c_tuple = (1, 2, 3, 4, 5)
 
 #7. Set
-d_set = {1, 2, 3, 4, 5}
-
+d_set = {1, 6, 3, 4, 5,2}
 #8. Dictionary
 e_dict = {"name": "Alice", "age": 30}
 
