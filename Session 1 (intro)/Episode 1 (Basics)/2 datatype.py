@@ -22,7 +22,7 @@ d_set = {1, 6, 3, 4, 5,2}
 e_dict = {"name": "Alice", "age": 30}
 
 #9. Complex
-f_complex = 2 + 3
+f_complex = 2 + 3j
 
 #10. Bytes
 g_bytes = b"Hello"
