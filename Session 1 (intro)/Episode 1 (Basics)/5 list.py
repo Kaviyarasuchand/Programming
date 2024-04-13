@@ -14,7 +14,7 @@ my_list.insert(2, 10)  # Inserts 10 at index 2
 my_list.remove(3)  # Removes the first occurrence of 3
 
 #6. Popping Elements:
-popped_element = my_list.pop()  # Removes and returns the last element
+popped_element = my_list.pop(2)  # Removes and returns the last element
 
 #7. Slicing Lists:
 sliced_list = my_list[1:3]  # Returns elements from index 1 to 2
