@@ -1,9 +1,9 @@
 #1. Creating a List:
 my_list = [1, 2, 3, 4, 5]
+print(my_list)
 
 #2. Accessing Elements:
 print(my_list[0])  # Output: 1
-
 #3. Appending Elements:
 my_list.append(6)
 
