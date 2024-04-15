@@ -7,6 +7,7 @@ print(my_list[0])  # Output: 1
 
 #3. Appending Elements:
 my_list.append(6)
+print(my_list)
 
 #4. Inserting Elements:
 my_list.insert(2, 10)  # Inserts 10 at index 2
