@@ -1,8 +1,8 @@
 #5. round()
 
 #Basic Usage: Rounds a number to a specified number of decimal places.
-num = 3.14159
-print("Rounded value:", round(num, 2))
+num = 3.54559
+print("Rounded value:", round(num, 0))
 
 #Advanced Usage: Rounding numbers in a list to two decimal places.
 nums = [3.14159, 2.71828, 1.61803]
